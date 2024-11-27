@@ -12,7 +12,7 @@ const Contact = () => {
           <div className='bg-[#eeebe3]  shadow-2xl p-10 mt-10'>
             <h1 className='text-5xl font-bold text-[#5E3219]'>Contact Us</h1>
             <p className='font-semibold text-gray-600  mt-4'>
-              We're here to help. Whether you need cleaning products, aftercare services, or have general inquiries, reach out to us today!
+              We are here to help. Whether you need cleaning products, aftercare services, or have general inquiries, reach out to us today!
             </p>
 
             <form className='mt-8 space-y-6'>

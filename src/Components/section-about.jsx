@@ -27,7 +27,7 @@ const Sectionabout = () => {
               loading="lazy"
             />
             <div className=" lg:text-left mt-6 lg:mt-0">
-              <h2 className="text-white text-3xl sm:text-4xl lg:text-6xl mb-4 lg:mb-10">Hey, I'm Lais.</h2>
+              <h2 className="text-white text-3xl sm:text-4xl lg:text-6xl mb-4 lg:mb-10">Hey, Im Lais.</h2>
               <p className="text-gray-300 text-lg sm:text-lg lg:text-xl leading-relaxed lg:ml-11 lg:mb-6 mb-4">
                 I like to work with people and create 
                 something from zero that will stay
