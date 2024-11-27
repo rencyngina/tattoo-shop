@@ -2,7 +2,9 @@ import Image from "next/image";
 import { Inter } from "next/font/google";
 import Navbar from "@/Components/Navbar";
 import Hero from "@/Components/HeroSection/Hero";
-import Object1 from "@/Components/object1";
+import Sectionabout from "@/Components/section-about";
+import Sectionservices from "@/Components/sectionservices";
+import Foot from "@/Components/foot";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -11,7 +13,9 @@ export default function Home() {
    <main>
       <Navbar />
       <Hero />
-      <Object1 />
+      <Sectionabout />
+      <Sectionservices />
+      <Foot />
    </main>
   );
 }
